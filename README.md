@@ -10,7 +10,7 @@
 
 ## Uso
 
-- Clique com o botão direito se selecione a opção **New File...**
+- Clique com o botão direito e selecione a opção **New File...**
 - Procure em **Templates** o template com o nome desejado
 
 <div style="text-align: center">
@@ -18,7 +18,7 @@
 </div>
 
 - Digite o nome base e selecione a opção "Also create a XIB file" se deverá ser criado um XIB
-    * Exemplo de base name: Post, que daria origem aos seguintes arquivos: PostViewController, PostWireFrame, PostPresenter
+    * Exemplo de base name: Post, que daria origem aos seguintes arquivos: PostRepository, PostWireFrame, PostPresenter
 
 <div style="text-align: center">
     <img alt="Digite o nome base e selecione ou não a opção para criação de XIB" src="./images/step-2.png"/>
