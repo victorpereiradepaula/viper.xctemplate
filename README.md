@@ -6,7 +6,7 @@
 
 1. Tente acessar a seguinte pasta dos templates: ``` cd ~/Library/Developer/Xcode/Templates/ ``` 
     * Caso ela não exista crie: ``` mkdir ~/Library/Developer/Xcode/Templates/ ``` e execute novamente o passo **1.**
-1. Clone o projeto ``` git clone git@gitlab.com:VictorPPaula/Viper.xctemplate.git ```
+1. Clone o projeto ``` git clone git@github.com:victorpereiradepaula/XCodeTemplates-Viper.git ```
 
 ## Uso
 
@@ -14,7 +14,7 @@
 - Procure em **Templates** o template com o nome desejado
 
 <div style="text-align: center">
-    <img alt="CProcure em Templates o template com o nome desejado" src="./images/step-1.png"/>
+    <img alt="Procure em Templates o template com o nome desejado" src="./images/step-1.png"/>
 </div>
 
 - Digite o nome base e selecione a opção "Also create a XIB file" se deverá ser criado um XIB
