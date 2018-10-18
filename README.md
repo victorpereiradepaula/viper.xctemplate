@@ -18,7 +18,7 @@
 </div>
 
 - Digite o nome base e selecione a opção "Also create a XIB file" se deverá ser criado um XIB
-    * Exemplo de base name: Post, que daria origem aos seguintes arquivos: PostRepository, PostWireFrame, PostPresenter
+    * Exemplo de base name: Post, que daria origem aos seguintes arquivos: PostRepository.swift, PostWireFrame.swift, PostPresenter.swift, PostViewController.swift, PostView.xib
 
 <div style="text-align: center">
     <img alt="Digite o nome base e selecione ou não a opção para criação de XIB" src="./images/step-2.png"/>
