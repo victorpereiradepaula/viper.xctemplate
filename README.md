@@ -6,7 +6,7 @@
 
 1. Tente acessar a seguinte pasta dos templates: ``` cd ~/Library/Developer/Xcode/Templates/ ``` 
     * Caso ela não exista crie: ``` mkdir ~/Library/Developer/Xcode/Templates/ ``` e execute novamente o passo **1.**
-1. Clone o projeto ``` git clone git@github.com:victorpereiradepaula/XCodeTemplates-Viper.git ```
+1. Clone o projeto ``` git clone git@github.com:victorpereiradepaula/Viper.xctemplate.git ```
 
 ## Uso
 
