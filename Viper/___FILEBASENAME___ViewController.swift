@@ -13,4 +13,8 @@ class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
+
+    override func bind() {
+        
+    }
 }

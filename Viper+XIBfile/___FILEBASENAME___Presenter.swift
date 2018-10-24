@@ -18,12 +18,8 @@ class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
     init(interactor: ___VARIABLE_productName:identifier___InteractorProtocol) {
         self.interactor = interactor
         super.init()
-        bind()
     }
     
-    private func bind() {
-        
-    }
 }
 
 extension ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
