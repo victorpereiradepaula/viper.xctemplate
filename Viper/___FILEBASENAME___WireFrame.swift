@@ -19,12 +19,6 @@ class ___FILEBASENAMEASIDENTIFIER___: BaseWireFrame {
         super.init(viewController: viewController)
         presenter.router = self
     }
-    
-    func presentOn(navigationController: UINavigationController, callback: WireFrameCallbackProtocol) {
-        self.callback = callback
-        navigationController.pushViewController(viewController, animated: true)
-        self.navigationController = navigationController
-    }
 }
 
 extension ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
