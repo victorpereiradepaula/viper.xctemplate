@@ -15,6 +15,6 @@ class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
     }
 
     override func bind() {
-        
+        super.bind()
     }
 }
