@@ -34,6 +34,7 @@
 			<key>Values</key>
 			<array>
 				<string>Viper</string>
+				<string>Viper + IGListKit</string>
 			</array>
 		</dict>
 		<dict>
