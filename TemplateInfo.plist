@@ -35,11 +35,13 @@
 			<array>
 				<string>Viper</string>
 				<string>Viper + IGListKit</string>
+				<string>ViperBuilder</string>
+				<string>ViperBuilder + IGListKit</string>
 			</array>
 		</dict>
 		<dict>
 			<key>Identifier</key>
-			<string>+XIBfile</string>
+			<string> + XIBfile</string>
 			<key>Name</key>
 			<string>Also create a XIB file</string>
 			<key>Type</key>
@@ -49,6 +51,7 @@
 				<key>architecture</key>
 				<array>
 					<string>Viper</string>
+					<string>ViperBuilder</string>
 				</array>
 			</dict>
 		</dict>
