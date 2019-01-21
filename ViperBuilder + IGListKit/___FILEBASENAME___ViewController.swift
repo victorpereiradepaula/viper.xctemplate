@@ -25,7 +25,6 @@ class ___FILEBASENAMEASIDENTIFIER___: BaseCollectionViewController {
     }
 }
 
-
 extension ___FILEBASENAMEASIDENTIFIER___: ListAdapterDataSource {
     
     func objects(for listAdapter: ListAdapter) -> [ListDiffable] {
