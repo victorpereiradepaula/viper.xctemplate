@@ -20,7 +20,7 @@ public final class ___FILEBASENAMEASIDENTIFIER___: BaseCollectionViewController 
       adapter.dataSource = self
    }
    
-   override func bind() {
+   override public func bind() {
       super.bind()
    }
 }

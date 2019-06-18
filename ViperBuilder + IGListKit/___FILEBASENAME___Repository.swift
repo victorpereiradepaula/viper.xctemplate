@@ -6,7 +6,7 @@ import Objects
 import RxSwift
 import DataBase
 
-class ___FILEBASENAMEASIDENTIFIER___: NSObject {
+public class ___FILEBASENAMEASIDENTIFIER___: NSObject {
    
    override public init() {
       super.init()
