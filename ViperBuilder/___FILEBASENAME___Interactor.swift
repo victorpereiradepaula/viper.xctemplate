@@ -1,5 +1,6 @@
 //  ___FILEHEADER___
 
+import Base
 import RxSwift
 import RxCocoa
 
@@ -7,11 +8,11 @@ protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
     
 }
 
-class ___FILEBASENAMEASIDENTIFIER___: BaseInteractor {
+public final class ___FILEBASENAMEASIDENTIFIER___: BaseInteractor {
  
     private let repository: ___VARIABLE_productName:identifier___RepositoryProtocol
     
-    init(repository: ___VARIABLE_productName:identifier___RepositoryProtocol) {
+    public init(repository: ___VARIABLE_productName:identifier___RepositoryProtocol) {
         self.repository = repository
         
         super.init()
