@@ -4,7 +4,11 @@ import Base
 import RxSwift
 import RxCocoa
 
-protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
+public protocol ___VARIABLE_productName:identifier___RepositoryProtocol {
+    
+}
+
+public protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
     
 }
 

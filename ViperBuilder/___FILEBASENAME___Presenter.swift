@@ -11,7 +11,7 @@ public protocol ___VARIABLE_productName:identifier___RouterProtocol: class {
 
 public final class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
     
-    weak var router: ___VARIABLE_productName:identifier___RouterProtocol?
+    public weak var router: ___VARIABLE_productName:identifier___RouterProtocol?
     private let interactor: ___VARIABLE_productName:identifier___InteractorProtocol
     
     public init(interactor: ___VARIABLE_productName:identifier___InteractorProtocol) {
