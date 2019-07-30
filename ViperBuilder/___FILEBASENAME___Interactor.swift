@@ -18,7 +18,6 @@ public final class ___FILEBASENAMEASIDENTIFIER___: BaseInteractor {
     
     public init(repository: ___VARIABLE_productName:identifier___RepositoryProtocol) {
         self.repository = repository
-        
         super.init()
     }
 }

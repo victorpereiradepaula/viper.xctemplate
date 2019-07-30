@@ -15,7 +15,7 @@ public final class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
        return basePresenter as! ___VARIABLE_productName:identifier___PresenterProtocol
    }
     
-    override func public viewDidLoad() {
+    override public func viewDidLoad() {
         super.viewDidLoad()
     }
 

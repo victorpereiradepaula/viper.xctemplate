@@ -16,7 +16,6 @@ public final class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
     
     public init(interactor: ___VARIABLE_productName:identifier___InteractorProtocol) {
         self.interactor = interactor
-        
         super.init()
     }
     
