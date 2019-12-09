@@ -2,7 +2,7 @@
 
 import UIKit
 
-class ___FILEBASENAMEASIDENTIFIER___ {
+final class ___FILEBASENAMEASIDENTIFIER___ {
  
     static func build(router: ___VARIABLE_productName:identifier___RouterProtocol) -> UIViewController {
         let repository = ___VARIABLE_productName:identifier___Repository()
