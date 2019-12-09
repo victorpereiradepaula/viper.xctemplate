@@ -1,20 +1,9 @@
 //  ___FILEHEADER___
 
-import API
-// import
-import Objects
-import RxSwift
-import DataBase
-
-public class ___FILEBASENAMEASIDENTIFIER___: NSObject {
-   
-   override public init() {
-      super.init()
-   }
+protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
+    
 }
 
-
-extension ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
-   
+class ___FILEBASENAMEASIDENTIFIER___: BaseRepository, ___FILEBASENAMEASIDENTIFIER___Protocol {
+    
 }
-

@@ -1,9 +1,5 @@
 //  ___FILEHEADER___
 
-import Base
-import RxSwift
-import RxCocoa
-
 public protocol ___VARIABLE_productName:identifier___RepositoryProtocol {
     
 }

@@ -1,10 +1,5 @@
 //  ___FILEHEADER___
 
-import Base
-import UIKit
-import RxSwift
-import Cartography
-
 protocol ___VARIABLE_productName:identifier___PresenterProtocol: BasePresenterProtocol {
     
 }

@@ -1,7 +1,5 @@
 //  ___FILEHEADER___
 
-import RxSwift
-
 protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
     
 }
