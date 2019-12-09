@@ -1,10 +1,10 @@
 //  ___FILEHEADER___
 
-public protocol ___VARIABLE_productName:identifier___RouterProtocol: class {
+protocol ___VARIABLE_productName:identifier___RouterProtocol: class {
     
 }
 
-public final class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
+final class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
     
     public weak var router: ___VARIABLE_productName:identifier___RouterProtocol?
     private let interactor: ___VARIABLE_productName:identifier___InteractorProtocol

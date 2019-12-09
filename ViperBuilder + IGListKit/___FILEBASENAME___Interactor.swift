@@ -1,14 +1,14 @@
 //  ___FILEHEADER___
 
-public protocol ___VARIABLE_productName:identifier___RepositoryProtocol {
+protocol ___VARIABLE_productName:identifier___RepositoryProtocol {
     
 }
 
-public protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
+protocol ___FILEBASENAMEASIDENTIFIER___Protocol {
    
 }
 
-public final class ___FILEBASENAMEASIDENTIFIER___: BaseInteractor {
+final class ___FILEBASENAMEASIDENTIFIER___: BaseInteractor {
    
    private let repository: ___VARIABLE_productName:identifier___RepositoryProtocol
    

@@ -7,7 +7,7 @@ protocol ___VARIABLE_productName:identifier___PresenterProtocol: BasePresenterPr
    var viewModels: [ListDiffable] { get }
 }
 
-public final class ___FILEBASENAMEASIDENTIFIER___: BaseCollectionViewController {
+final class ___FILEBASENAMEASIDENTIFIER___: BaseCollectionViewController {
    
    private var presenter: ___VARIABLE_productName:identifier___PresenterProtocol {
    return basePresenter as! ___VARIABLE_productName:identifier___PresenterProtocol

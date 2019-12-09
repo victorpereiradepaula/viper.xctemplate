@@ -4,7 +4,7 @@ protocol ___VARIABLE_productName:identifier___PresenterProtocol: BasePresenterPr
     
 }
 
-public final class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
+final class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
     
    private var presenter: ___VARIABLE_productName:identifier___PresenterProtocol {
        return basePresenter as! ___VARIABLE_productName:identifier___PresenterProtocol
