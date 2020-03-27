@@ -1,8 +1,8 @@
 //  ___FILEHEADER___
 
-protocol ___VARIABLE_productName:identifier___PresenterProtocol: BasePresenterProtocol {
-    
-}
+import UIKit
+import RxSwift
+import Cartography
 
 final class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
     
@@ -10,11 +10,11 @@ final class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
         return basePresenter as! ___VARIABLE_productName:identifier___PresenterProtocol
     }
     
-    override public func viewDidLoad() {
+    override func viewDidLoad() {
         super.viewDidLoad()
     }
     
-    override public func bind() {
+    override func bind() {
         super.bind()
     }
 }

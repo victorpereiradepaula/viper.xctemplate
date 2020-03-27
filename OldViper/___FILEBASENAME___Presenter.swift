@@ -8,7 +8,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___Protocol: BasePresenterProtocol {
     
 }
 
-class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
+final class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
     
     weak var router: ___VARIABLE_productName:identifier___WireFrameProtocol?
     private let interactor: ___VARIABLE_productName:identifier___InteractorProtocol
@@ -20,6 +20,7 @@ class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
     
 }
 
+// MARK: ___FILEBASENAMEASIDENTIFIER___Protocol
 extension ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
     
 }

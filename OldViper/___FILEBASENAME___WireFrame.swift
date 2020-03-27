@@ -6,8 +6,8 @@ protocol ___FILEBASENAMEASIDENTIFIER___Protocol: class {
     
 }
 
-class ___FILEBASENAMEASIDENTIFIER___: BaseWireFrame {
- 
+final class ___FILEBASENAMEASIDENTIFIER___: BaseWireFrame {
+    
     private let viewController: ___VARIABLE_productName:identifier___ViewController
     
     init() {
@@ -21,6 +21,7 @@ class ___FILEBASENAMEASIDENTIFIER___: BaseWireFrame {
     }
 }
 
+// MARK: ___FILEBASENAMEASIDENTIFIER___Protocol
 extension ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
     
 }

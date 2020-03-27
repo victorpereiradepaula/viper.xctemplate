@@ -6,14 +6,14 @@ protocol ___VARIABLE_productName:identifier___PresenterProtocol: BasePresenterPr
 
 final class ___FILEBASENAMEASIDENTIFIER___: BaseViewController {
     
-   private var presenter: ___VARIABLE_productName:identifier___PresenterProtocol {
-       return basePresenter as! ___VARIABLE_productName:identifier___PresenterProtocol
-   }
+    private var presenter: ___VARIABLE_productName:identifier___PresenterProtocol {
+        return basePresenter as! ___VARIABLE_productName:identifier___PresenterProtocol
+    }
     
     override public func viewDidLoad() {
         super.viewDidLoad()
     }
-
+    
     override public func bind() {
         super.bind()
     }

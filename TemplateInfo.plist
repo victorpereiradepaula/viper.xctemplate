@@ -30,11 +30,10 @@
 			<key>Type</key>
 			<string>popup</string>
 			<key>Default</key>
-			<string>Viper Basics</string>
+			<string>ViperBuilder</string>
 			<key>Values</key>
 			<array>
-				<string>Viper</string>
-				<string>Viper + IGListKit</string>
+				<string>OldViper</string>
 				<string>ViperBuilder</string>
 				<string>ViperBuilder + IGListKit</string>
 			</array>
@@ -50,7 +49,6 @@
 			<dict>
 				<key>architecture</key>
 				<array>
-					<string>Viper</string>
 					<string>ViperBuilder</string>
 				</array>
 			</dict>

@@ -3,7 +3,7 @@
 import UIKit
 
 final class ___FILEBASENAMEASIDENTIFIER___ {
- 
+    
     static func build(router: ___VARIABLE_productName:identifier___RouterProtocol) -> UIViewController {
         let repository = ___VARIABLE_productName:identifier___Repository()
         let interactor = ___VARIABLE_productName:identifier___Interactor(repository: repository)

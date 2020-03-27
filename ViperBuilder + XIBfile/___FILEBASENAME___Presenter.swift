@@ -16,6 +16,7 @@ final class ___FILEBASENAMEASIDENTIFIER___: BasePresenter {
     
 }
 
+// MARK: ___FILEBASENAMEASIDENTIFIER___Protocol
 extension ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Protocol {
     
 }
