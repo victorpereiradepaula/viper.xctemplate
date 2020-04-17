@@ -9,8 +9,11 @@ protocol ___FILEBASENAMEASIDENTIFIER___Protocol: class {
 
 final class ___FILEBASENAMEASIDENTIFIER___: BaseInteractor {
     
-    private var repository: ___VARIABLE_productName:identifier___RepositoryProtocol {
-        return baseRepository as! ___VARIABLE_productName:identifier___RepositoryProtocol
+    private let repository: ___VARIABLE_productName:identifier___RepositoryProtocol
+    
+    public init(repository: ___VARIABLE_productName:identifier___RepositoryProtocol) {
+        self.repository = repository
+        super.init()
     }
 }
 
